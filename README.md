@@ -15,4 +15,7 @@ I'm passionate about Web Hacking, Social Engineering, and Coding.
 - MySQL
 - Burp Suite
 - Linux
-
+- Nmap
+- Hydra
+- Metasploit
+- etc.
