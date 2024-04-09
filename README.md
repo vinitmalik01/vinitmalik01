@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @vinitmalik01
-- 👀 I’m interested in Hacking(mainly web hacking,social engineering),Coding(mainly python,also WEB DEV)
-- 💞️ I’m looking to collaborate on coding and hacking:)
+# Hi there! 👋 I'm Vinit Malik
 
-<!---
-vinitmalik01/vinitmalik01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm passionate about Web Hacking, Social Engineering, and Coding.
+
+## Connect with Me
+- X(Twitter): [Vinit Malik](https://twitter.com/VinitMalik01)
+- TryHackMe: [Vinitmalik264](https://tryhackme.com/p/vinitmalik264)
+
+## Languages and Tools
+- Bash
+- C
+- JavaScript
+- Python
+- MySQL
+- Burp Suite
+- Linux
+
