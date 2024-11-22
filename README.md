@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vinit Malik
 
 ## About Me
-I'm passionate about Web Hacking, Social Engineering, and Coding.
+Just a tech.
 
 ## Connect with Me
 - X(Twitter): [Vinit Malik](https://twitter.com/VinitMalik01)
